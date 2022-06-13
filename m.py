@@ -1,4 +1,5 @@
 print("mood")
 print("mo55od")
 print("mo5555od")
-print("mo5555od66565")
+print("mo5555offd66565")
+print("mo55")
